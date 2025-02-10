@@ -1,3 +1,3 @@
-# [comments](https://github.com/liuyuhe666/comments/issues)
+# [comments](https://github.com/liuyuhe666/comments/discussions)
 
-Blog: [`https://lyh-blog.github.io`](https://lyh-blog.github.io)
+Blog: [`https://liuyuhe666.github.io`](https://liuyuhe666.github.io)
